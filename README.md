@@ -1,18 +1,13 @@
-# cold-chain-optimization-pharma
-Optimizing cold chain logistics for pharmaceuticals in Switzerland
-This project aims to optimize cold chain logistics for temperature-sensitive pharmaceuticals in Switzerland. 
-The focus is on minimizing costs, maintaining temperature compliance, and optimizing delivery routes.
+#Problem statement
+Develop a system to monitor and predict temperature compliance during the transit of pharmaceutical products to ensure they remain within the required range (2°C–8°C), providing early warnings for any deviations.
 
-## Key Objectives
-- Ensure temperature compliance (2°C–8°C) during transit.
-- Optimize routes to reduce costs and delivery times.
-- Address cross-border logistics challenges.
+Objective:
 
-## Technologies
-- Python, Google OR-Tools, Streamlit
-- Data sources: OpenStreetMap, Swiss Federal Statistical Office, Kaggle
+Ensure product safety by monitoring temperature compliance.
+Detect anomalies or trends leading to temperature deviations.
+Provide actionable insights to logistics operators (e.g., when equipment may fail or external conditions pose a risk).
+Key Metrics:
 
-## Planned Features
-- Route optimization with constraints.
-- Real-time temperature monitoring.
-- Interactive dashboard for results visualization.
+Percentage of time within the 2°C–8°C range.
+Number of temperature excursions detected and resolved.
+Prediction accuracy for temperature deviations.
