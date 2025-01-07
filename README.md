@@ -11,6 +11,8 @@ An estimated loss of $34.1 Billion is incurred annually world-wide due to improp
 1. Percentage of time within the 2°C–8°C range.
 2. Number of temperature excursions detected and resolved.
 3. Prediction accuracy for temperature deviations.
+
+# Model Development
 Step 1: We are simulating a data set to procced with building the model
 Step2: Data Processing
 For data processing they are a list of general checks and based on the problem in hand there could be specific steps
